@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\экз\tests\vk\vk\bin\Debug\net5.0\vk.exe
+C:\Users\user\Desktop\экз\tests\vk\vk\bin\Debug\net5.0\vk.deps.json
+C:\Users\user\Desktop\экз\tests\vk\vk\bin\Debug\net5.0\vk.runtimeconfig.json
+C:\Users\user\Desktop\экз\tests\vk\vk\bin\Debug\net5.0\vk.runtimeconfig.dev.json
+C:\Users\user\Desktop\экз\tests\vk\vk\bin\Debug\net5.0\vk.dll
+C:\Users\user\Desktop\экз\tests\vk\vk\bin\Debug\net5.0\vk.pdb
+C:\Users\user\Desktop\экз\tests\vk\vk\obj\Debug\net5.0\vk.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\экз\tests\vk\vk\obj\Debug\net5.0\vk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\экз\tests\vk\vk\obj\Debug\net5.0\vk.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\экз\tests\vk\vk\obj\Debug\net5.0\vk.AssemblyInfo.cs
+C:\Users\user\Desktop\экз\tests\vk\vk\obj\Debug\net5.0\vk.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\экз\tests\vk\vk\obj\Debug\net5.0\vk.dll
+C:\Users\user\Desktop\экз\tests\vk\vk\obj\Debug\net5.0\refint\vk.dll
+C:\Users\user\Desktop\экз\tests\vk\vk\obj\Debug\net5.0\vk.pdb
+C:\Users\user\Desktop\экз\tests\vk\vk\obj\Debug\net5.0\vk.genruntimeconfig.cache
+C:\Users\user\Desktop\экз\tests\vk\vk\obj\Debug\net5.0\ref\vk.dll
